@@ -1,1 +1,3 @@
-# Shogi-Game-Tracking
+## Shogi-Game-Tracking
+
+# we have Developed a fully automated 9x9 Shogi board using Arduino Mega and Hall effect sensors to detect and track piece movements. The system integrates 16-channel analog multiplexers to monitor the 81 positions on the board, with magnetic sensors attached to each Shogi piece for movement detection. The program processes and prints real-time moves, following official Shogi rules including capturing, promotions, and drops. Additionally, implemented start/stop commands to control sensor readings, enhancing flexibility during gameplay. This project demonstrates my expertise in IoT, sensor interfacing, and game automation using embedded systems.
